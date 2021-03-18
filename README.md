@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @NilPujol
+- 👀 I’m interested in System administration, programing ...
+- 🌱 I’m currently learning System administration
+- 📫 How to reach me nilpujolporta@gmail.com
